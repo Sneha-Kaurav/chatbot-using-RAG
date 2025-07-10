@@ -1,0 +1,22 @@
+# langchain-google-genai
+langchain_google_genai
+# langchain_core
+langchain-core
+langchain_community
+langserve
+langchain_ollama
+python-dotenv
+streamlit
+# langchain
+fastapi
+uvicorn
+sse_starlette
+
+# extra for RAG
+bs4
+pypdf
+faiss-cpu
+
+# extra for Agents
+wikipedia
+arxiv
